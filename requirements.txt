@@ -1,0 +1,37 @@
+Django==3.1.7
+django-filter==2.4.0
+mysqlclient==2.0.3
+djangorestframework==3.12.3
+drf-yasg==1.20.0
+Celery==5.0.5
+redis==3.5.3
+django-redis==4.12.1
+drf-renderer-xlsx==0.4.0
+pandas==1.4.3
+django-celery-beat==2.2.0
+django-cors-headers==3.7.0
+tablib==3.0.0
+django-constance==2.8.0
+django-constance[database] # https://django-constance.readthedocs.io/
+pyjwt==2.1.0 # https://pyjwt.readthedocs.io/
+djangorestframework-simplejwt==4.7.1
+apscheduler==3.7.0 # https://apscheduler.readthedocs.io/
+django-apscheduler==0.5.2
+django-import-export==2.7.1
+boto3==1.22.1 # Amazone S3
+django-fsm==2.8.0
+django-tinymce==3.3.0 # https://django-tinymce.readthedocs.io/
+gunicorn==20.1.0
+django-storages==1.12.3
+Pillow==9.1.0
+ulid-py==1.1.0
+nanoid==2.0.0
+geopy==2.2.0
+django-debug-toolbar==3.2.4
+django-admin-rangefilter==0.8.5
+django-nested-admin==3.4.0
+django-celery-results==2.2.0
+coloredlogs==15.0.1
+django-admin-autocomplete-filter==0.7.1
+xlsxwriter==3.0.3
+django-smart-selects==1.5.9

@@ -1,0 +1,42 @@
+[
+    {
+        "model": "app.EwasteBrand",
+        "fields": {
+            "name": "Apple",
+            "created_at": "2022-01-01 00:00:00",
+            "updated_at": "2022-01-01 00:00:00"
+        }
+    },
+    {
+        "model": "app.EwasteBrand",
+        "fields": {
+            "name": "Samsung",
+            "created_at": "2022-01-01 00:00:00",
+            "updated_at": "2022-01-01 00:00:00"
+        }
+    },
+    {
+        "model": "app.EwasteBrand",
+        "fields": {
+            "name": "Xiaomi",
+            "created_at": "2022-01-01 00:00:00",
+            "updated_at": "2022-01-01 00:00:00"
+        }
+    },
+    {
+        "model": "app.EwasteBrand",
+        "fields": {
+            "name": "Huawei",
+            "created_at": "2022-01-01 00:00:00",
+            "updated_at": "2022-01-01 00:00:00"
+        }
+    },
+    {
+        "model": "app.EwasteBrand",
+        "fields": {
+            "name": "Oppo",
+            "created_at": "2022-01-01 00:00:00",
+            "updated_at": "2022-01-01 00:00:00"
+        }
+    }
+]

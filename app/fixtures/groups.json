@@ -1,0 +1,20 @@
+[
+    {
+        "model": "auth.group",
+        "fields": {
+            "name": "OWNER"
+        }
+    },
+    {
+        "model": "auth.group",
+        "fields": {
+            "name": "SHIPPER"
+        }
+    },
+    {
+        "model": "auth.group",
+        "fields": {
+            "name": "COLLECTOR"
+        }
+    }
+]
