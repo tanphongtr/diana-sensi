@@ -543,6 +543,10 @@ USE_X_FORWARDED_HOST = True
 USE_X_FORWARDED_PORT = True
 
 if DEBUG:
+    # Fix 403 Forbidden admin error while login
+    SESSION_COOKIE_SECURE = False
+
+if DEBUG:
     import os  # only if you haven't already imported this
     import socket  # only if you haven't already imported this
     hostname, _, ips = socket.gethostbyname_ex(socket.gethostname())
